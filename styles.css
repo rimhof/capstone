@@ -175,13 +175,13 @@ footer {
     }
 
     .navbar-header > .navbar-brand {
-        color: #000;
+        color: #9c27b0;
         padding: 19px;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
-        color: #000;
+        color: #9c27b0;
     }
 
     .navbar-default .nav > li>a,

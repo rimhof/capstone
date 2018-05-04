@@ -377,6 +377,8 @@ textarea {
     margin: 0 auto;
     max-width: 650px;
     overflow:hidden;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .gallery-box .gallery-box-caption {

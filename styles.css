@@ -394,6 +394,8 @@ textarea {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .gallery-box .gallery-box-caption .gallery-box-content {
@@ -408,6 +410,8 @@ textarea {
 
 .gallery-box:hover .gallery-box-caption {
     opacity: 1;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .gallery-box:hover img {
